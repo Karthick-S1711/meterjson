@@ -29,7 +29,7 @@
       }
     },
         {
-      "Cooling Tower": {
+      "CoolingTower": {
         "actual_energy": "12345.67",
         "power": "9865.23",
         "line_volage": "9865.23",
@@ -71,7 +71,7 @@
       }
     },
 	        {
-      "RO Water Plant": {
+      "ROWaterPlant": {
         "actual_energy": "12345.67",
         "power": "9865.23",
         "line_volage": "9865.23",
