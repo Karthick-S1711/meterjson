@@ -1,30 +1,142 @@
 {
   "meterdata": [
     {
-      "meter00001": {
-        "actual_energy": "xxxxxx",
-        "power": "xxxxxxxx",
-        "line_volage": "xxxxxxxx",
-        "average_current": "xxxxxxxx",
-        "running_hours": "xxxxxxxx",
+      "IMG200T": {
+        "actual_energy": "23456.26",
+        "power": "23456.26",
+        "line_volage": "228",
+        "average_current": "46",
+        "running_hours": "23.4",
         "power_factor": {
-          "pf": "xxxxxxx",
-          "ap": "xxxxxxx",
-          "rp": "xxxxxxx"
+          "pf": "0.985",
+          "ap": "546458.46",
+          "rp": "5468632.23"
         }
       }
     },
     {
-      "meterxxxxx": {
-        "actual_energy": "xxxxxx",
-        "power": "xxxxxxxx",
-        "line_volage": "xxxxxxxx",
-        "average_current": "xxxxxxxx",
-        "running_hours": "xxxxxxxx",
+      "660T": {
+        "actual_energy": "1856.46",
+        "power": "1856.46",
+        "line_volage": "230",
+        "average_current": "46",
+        "running_hours": "21.1",
         "power_factor": {
-          "pf": "xxxxxxx",
-          "ap": "xxxxxxx",
-          "rp": "xxxxxxx"
+          "pf": "1.00",
+          "ap": "7895462.62",
+          "rp": "7456989.52"
+        }
+      }
+    }
+        {
+      "HT2000T": {
+        "actual_energy": "9856.25",
+        "power": "9876.41",
+        "line_volage": "220",
+        "average_current": "10",
+        "running_hours": "56.6",
+        "power_factor": {
+          "pf": "0.856",
+          "ap": "254648.2",
+          "rp": "775463.5"
+        }
+      }
+    }
+        {
+      "Chiller1": {
+        "actual_energy": "89547.35",
+        "power": "998642.56",
+        "line_volage": "210",
+        "average_current": "19",
+        "running_hours": "96.23",
+        "power_factor": {
+          "pf": "1.00",
+          "ap": "18654.6",
+          "rp": "36542.6"
+        }
+      }
+    }
+        {
+      "Cooling Tower": {
+        "actual_energy": "64235.15",
+        "power": "86542.02",
+        "line_volage": "210",
+        "average_current": "52",
+        "running_hours": "66.32",
+        "power_factor": {
+          "pf": "0.985",
+          "ap": "98625.23",
+          "rp": "8975.23"
+        }
+      }
+    }
+        {
+      "DG1": {
+        "actual_energy": "854623.10",
+        "power": "1256.22",
+        "line_volage": "210",
+        "average_current": "54",
+        "running_hours": "19.26",
+        "power_factor": {
+          "pf": "45.58",
+          "ap": "19876.23",
+          "rp": "20564.89"
+        }
+      }
+    }
+        {
+      "DG2": {
+        "actual_energy": "654656516.56",
+        "power": "4684665.74",
+        "line_volage": "220",
+        "average_current": "130",
+        "running_hours": "20.56",
+        "power_factor": {
+          "pf": "0.968",
+          "ap": "1756.23",
+          "rp": "20654.55"
+        }
+      }
+    }
+        {
+      "Transformer1": {
+        "actual_energy": "8941653.56",
+        "power": "79865.6",
+        "line_volage": "210",
+        "average_current": "120",
+        "running_hours": "156.26",
+        "power_factor": {
+          "pf": "1.00",
+          "ap": "98744.44",
+          "rp": "5498468.6"
+        }
+      }
+    }
+        {
+      "Transformer2": {
+        "actual_energy": "8768455.65",
+        "power": "65465465.56",
+        "line_volage": "209",
+        "average_current": "142",
+        "running_hours": "453.2",
+        "power_factor": {
+          "pf": "0.9112",
+          "ap": "1563.2",
+          "rp": "46546.26"
+        }
+      }
+    }
+        {
+      "Solar Meter": {
+        "actual_energy": "498465.25",
+        "power": "15542.22",
+        "line_volage": "200",
+        "average_current": "102",
+        "running_hours": "1453.2",
+        "power_factor": {
+          "pf": "10.25",
+          "ap": "15468.26",
+          "rp": "356893.44"
         }
       }
     }
