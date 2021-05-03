@@ -32,7 +32,7 @@
       "CoolingTower": {
         "actual_energy": "12345.67",
         "power": "9865.23",
-        "line_volage": "9865.23",
+        "line_volage": "9865.53",
         "average_current": "9865.23",
         "running_hours": "9865.23",
         "power_factor": {
