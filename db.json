@@ -41,6 +41,20 @@
           "rp": "xxxxxxx"
         }
       }
+    },
+        {
+      "Meter4": {
+        "actual_energy": "xxxxxx",
+        "power": "xxxxxxxx",
+        "line_volage": "xxxxxxxx",
+        "average_current": "xxxxxxxx",
+        "running_hours": "xxxxxxxx",
+        "power_factor": {
+          "pf": "xxxxxxx",
+          "ap": "xxxxxxx",
+          "rp": "xxxxxxx"
+        }
+      }
     }
   ]
 }
